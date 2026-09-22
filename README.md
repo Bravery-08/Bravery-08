@@ -48,13 +48,6 @@ Final-year Computer Science undergrad at VIT Chennai. I write automated test sui
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bravery-08&show_icons=true&theme=default&hide_border=true" alt="Bravery-08's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravery-08&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
 <div align="center">
 
 15 public repos and counting — [see them all](https://github.com/Bravery-08?tab=repositories)
